@@ -1,0 +1,11 @@
+{
+  "name": "aula-1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Alef Felix",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "http": "^0.0.0"
+  }
+}
